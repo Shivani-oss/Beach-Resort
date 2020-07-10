@@ -70,3 +70,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ### Contentful API
 
 By using contentful api you can add more rooms by adding image and description
+
+#### Here is preview of site
+
+![screencapture-localhost-3000-2020-07-10-23_29_52](https://user-images.githubusercontent.com/52821772/87186782-b363b700-c309-11ea-9f50-7683f96e4473.png)
+
